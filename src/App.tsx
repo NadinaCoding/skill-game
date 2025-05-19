@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// src/App.tsx
+
+import { useState } from "react";
+import MainScreen from "./screens/MainScreen";
+import QuestionRenderer from "./components/QuestionRenderer";
+import { questions } from "./data/questions";
 
 function App() {
+  const [started, setStarted] = useState(false);
+  const [selectedSubject, setSelectedSubject] = useState<string | null>(null);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="min-h-screen">
+      {started ? (
+        <QuestionRenderer question={questions[0]} />
+      ) : (
+        <MainScreen
+          onStart={() => setStarted(true)}
+          onSelectSubject={(subject: string) => {
+          setSelectedSubject(subject);
+          console.log("Subject selected:", subject);
+        }}
+
+        />
+      )}
     </div>
   );
 }
 
 export default App;
+

@@ -1,0 +1,162 @@
+{
+  "name": "Multiplication by 5",
+  "level": 1,
+  "questions": [
+    {
+      "id": 101,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 1?",
+      "correctAnswer": 5,
+      "options": [4, 5, 6, 7]
+    },
+    {
+      "id": 102,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 1?",
+      "correctAnswer": 5
+    },
+    {
+      "id": 103,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 2?",
+      "correctAnswer": 10,
+      "options": [9, 10, 11, 12]
+    },
+    {
+      "id": 104,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 2?",
+      "correctAnswer": 10
+    },
+    {
+      "id": 105,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 3?",
+      "correctAnswer": 15,
+      "options": [14, 15, 16, 17]
+    },
+    {
+      "id": 106,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 3?",
+      "correctAnswer": 15
+    },
+    {
+      "id": 107,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 4?",
+      "correctAnswer": 20,
+      "options": [18, 19, 20, 21]
+    },
+    {
+      "id": 108,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 4?",
+      "correctAnswer": 20
+    },
+    {
+      "id": 109,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 5?",
+      "correctAnswer": 25,
+      "options": [23, 24, 25, 26]
+    },
+    {
+      "id": 110,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 5?",
+      "correctAnswer": 25
+    },
+    {
+      "id": 111,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 6?",
+      "correctAnswer": 30,
+      "options": [28, 29, 30, 31]
+    },
+    {
+      "id": 112,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 6?",
+      "correctAnswer": 30
+    },
+    {
+      "id": 113,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 7?",
+      "correctAnswer": 35,
+      "options": [33, 34, 35, 36]
+    },
+    {
+      "id": 114,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 7?",
+      "correctAnswer": 35
+    },
+    {
+      "id": 115,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 8?",
+      "correctAnswer": 40,
+      "options": [38, 39, 40, 41]
+    },
+    {
+      "id": 116,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 8?",
+      "correctAnswer": 40
+    },
+    {
+      "id": 117,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 9?",
+      "correctAnswer": 45,
+      "options": [43, 44, 45, 46]
+    },
+    {
+      "id": 118,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 9?",
+      "correctAnswer": 45
+    },
+    {
+      "id": 119,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 10?",
+      "correctAnswer": 50,
+      "options": [48, 49, 50, 51]
+    },
+    {
+      "id": 120,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 10?",
+      "correctAnswer": 50
+    },
+    {
+      "id": 121,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 11?",
+      "correctAnswer": 55,
+      "options": [53, 54, 55, 56]
+    },
+    {
+      "id": 122,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 11?",
+      "correctAnswer": 55
+    },
+    {
+      "id": 123,
+      "type": "multiple-choice",
+      "prompt": "What is 5 × 12?",
+      "correctAnswer": 60,
+      "options": [58, 59, 60, 61]
+    },
+    {
+      "id": 124,
+      "type": "text-input",
+      "prompt": "Type the answer: What is 5 × 12?",
+      "correctAnswer": 60
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+      "name": "Multiplication by 3",
+      "level": 1,
+      "questions": [
+        {
+          "id": 13,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 1?",
+          "correctAnswer": 3,
+          "options": [2, 3, 4, 5]
+        },
+        {
+          "id": 14,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 2?",
+          "correctAnswer": 6,
+          "options": [5, 6, 7, 8]
+        },
+        {
+          "id": 15,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 3?",
+          "correctAnswer": 9,
+          "options": [6, 8, 9, 10]
+        },
+        {
+          "id": 16,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 4?",
+          "correctAnswer": 12,
+          "options": [10, 11, 12, 13]
+        },
+        {
+          "id": 17,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 5?",
+          "correctAnswer": 15,
+          "options": [12, 14, 15, 16]
+        },
+        {
+          "id": 18,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 6?",
+          "correctAnswer": 18,
+          "options": [16, 18, 20, 21]
+        },
+        {
+          "id": 19,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 7?",
+          "correctAnswer": 21,
+          "options": [20, 21, 22, 24]
+        },
+        {
+          "id": 20,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 8?",
+          "correctAnswer": 24,
+          "options": [22, 23, 24, 25]
+        },
+        {
+          "id": 21,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 9?",
+          "correctAnswer": 27,
+          "options": [25, 26, 27, 28]
+        },
+        {
+          "id": 22,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 10?",
+          "correctAnswer": 30,
+          "options": [28, 29, 30, 31]
+        },
+        {
+          "id": 23,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 11?",
+          "correctAnswer": 33,
+          "options": [32, 33, 34, 35]
+        },
+        {
+          "id": 24,
+          "type": "multiple-choice",
+          "prompt": "What is 3 × 12?",
+          "correctAnswer": 36,
+          "options": [34, 35, 36, 37]
+        }
+      ]
+    }

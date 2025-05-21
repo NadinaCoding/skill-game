@@ -1,0 +1,20 @@
+{
+  "subjects": [
+    {
+      "name": "Maths",
+      "path": "subjects/maths",
+      "topics": [
+        "multiplication_by_2.json",
+        "multiplication_by_3.json",
+        "addition_to_10.json"
+      ]
+    },
+    {
+      "name": "English",
+      "path": "subjects/english",
+      "topics": [
+        "spelling_easy.json"
+      ]
+    }
+  ]
+}

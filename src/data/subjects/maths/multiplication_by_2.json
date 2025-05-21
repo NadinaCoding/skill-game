@@ -1,0 +1,90 @@
+{
+  "name": "Multiplication by 2",
+  "level": 1,
+  "questions": [
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 1?",
+      "correctAnswer": 2,
+      "options": [1, 2, 3, 4]
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 2?",
+      "correctAnswer": 4,
+      "options": [2, 3, 4, 5]
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 3?",
+      "correctAnswer": 6,
+      "options": [5, 6, 7, 8]
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 4?",
+      "correctAnswer": 8,
+      "options": [6, 7, 8, 9]
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 5?",
+      "correctAnswer": 10,
+      "options": [8, 9, 10, 11]
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 6?",
+      "correctAnswer": 12,
+      "options": [10, 11, 12, 13]
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 7?",
+      "correctAnswer": 14,
+      "options": [12, 13, 14, 15]
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 8?",
+      "correctAnswer": 16,
+      "options": [14, 15, 16, 17]
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 9?",
+      "correctAnswer": 18,
+      "options": [16, 17, 18, 19]
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 10?",
+      "correctAnswer": 20,
+      "options": [18, 19, 20, 21]
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 11?",
+      "correctAnswer": 22,
+      "options": [20, 21, 22, 23]
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "prompt": "What is 2 × 12?",
+      "correctAnswer": 24,
+      "options": [22, 23, 24, 25]
+    }
+  ]
+}

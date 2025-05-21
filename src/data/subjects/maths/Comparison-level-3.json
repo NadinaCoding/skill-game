@@ -1,5 +1,5 @@
 {
-  "name": "Salīdzināšana - 3. līmenis",
+  "name": "Salīdzināšana",
   "level": 3,
   "questions": [
     {
@@ -36,6 +36,76 @@
       "prompt": "150 cm ? 1 m 50 cm",
       "options": ["<", ">", "="],
       "correctAnswer": "="
-    }
+    },
+    {
+    "id": 430,
+    "type": "multiple-choice",
+    "prompt": "x - 10 ? 40 + x",
+    "options": ["<", ">", "="],
+    "correctAnswer": "<"
+  },
+  {
+    "id": 431,
+    "type": "multiple-choice",
+    "prompt": "y + 20 ? y + 15",
+    "options": ["<", ">", "="],
+    "correctAnswer": ">"
+  },
+  {
+    "id": 432,
+    "type": "multiple-choice",
+    "prompt": "50 + a ? a + 50",
+    "options": ["<", ">", "="],
+    "correctAnswer": "="
+  },
+  {
+    "id": 433,
+    "type": "multiple-choice",
+    "prompt": "b - 5 ? b - 10",
+    "options": ["<", ">", "="],
+    "correctAnswer": ">"
+  },
+  {
+    "id": 434,
+    "type": "multiple-choice",
+    "prompt": "c + 100 ? c + 90",
+    "options": ["<", ">", "="],
+    "correctAnswer": ">"
+  },
+  {
+    "id": 435,
+    "type": "multiple-choice",
+    "prompt": "x - 25 ? x - 25",
+    "options": ["<", ">", "="],
+    "correctAnswer": "="
+  },
+  {
+    "id": 436,
+    "type": "multiple-choice",
+    "prompt": "x + 60 ? 60 + x",
+    "options": ["<", ">", "="],
+    "correctAnswer": "="
+  },
+  {
+    "id": 437,
+    "type": "multiple-choice",
+    "prompt": "y - 20 ? y - 5",
+    "options": ["<", ">", "="],
+    "correctAnswer": "<"
+  },
+  {
+    "id": 438,
+    "type": "multiple-choice",
+    "prompt": "a + 40 ? a + 30",
+    "options": ["<", ">", "="],
+    "correctAnswer": ">"
+  },
+  {
+    "id": 439,
+    "type": "multiple-choice",
+    "prompt": "100 - b ? 90 - b",
+    "options": ["<", ">", "="],
+    "correctAnswer": ">"
+  }
   ]
 }

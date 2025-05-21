@@ -5,7 +5,7 @@
     {
       "id": 501,
       "type": "select-from-text",
-      "prompt": "Nospied uz saskaitāmā",
+      "prompt": "Nospied uz 'saskaitāmais'",
       "sentence": ["3", "+", "9", "=", "12"],
       "selectableParts": [0, 2, 4],
       "correctAnswer": 0
@@ -13,7 +13,7 @@
     {
       "id": 502,
       "type": "select-from-text",
-      "prompt": "Nospied uz saskaitītāja",
+      "prompt": "Nospied uz 'saskaitītājs'",
       "sentence": ["4", "+", "8", "=", "12"],
       "selectableParts": [0, 2, 4],
       "correctAnswer": 2
@@ -21,10 +21,66 @@
     {
       "id": 503,
       "type": "select-from-text",
-      "prompt": "Nospied uz summas",
+      "prompt": "Nospied uz 'summa'",
       "sentence": ["6", "+", "6", "=", "12"],
       "selectableParts": [0, 2, 4],
       "correctAnswer": 4
+    },
+    {
+    "id": 504,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'saskaitāmais'",
+    "sentence": ["7", "+", "2", "=", "9"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 0
+    },
+    {
+    "id": 505,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'saskaitītājs'",
+    "sentence": ["5", "+", "6", "=", "11"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 2
+    },
+    {
+    "id": 506,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'summa'",
+    "sentence": ["8", "+", "7", "=", "15"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 4
+    },
+    {
+    "id": 507,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'saskaitāmais'",
+    "sentence": ["10", "+", "3", "=", "13"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 0
+    },
+    {
+    "id": 508,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'saskaitītājs'",
+    "sentence": ["2", "+", "5", "=", "7"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 2
+    },
+    {
+    "id": 509,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'summa'",
+    "sentence": ["9", "+", "4", "=", "13"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 4
+    },
+    {
+    "id": 510,
+    "type": "select-from-text",
+    "prompt": "Nospied uz 'saskaitītājs'",
+    "sentence": ["1", "+", "8", "=", "9"],
+    "selectableParts": [0, 2, 4],
+    "correctAnswer": 2
     }
   ]
 }

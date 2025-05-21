@@ -1,0 +1,41 @@
+{
+  "name": "Salīdzināšana - 3. līmenis",
+  "level": 3,
+  "questions": [
+    {
+      "id": 411,
+      "type": "multiple-choice",
+      "prompt": "1 kg ? 900 g",
+      "options": ["<", ">", "="],
+      "correctAnswer": ">"
+    },
+    {
+      "id": 412,
+      "type": "multiple-choice",
+      "prompt": "1 m ? 90 cm",
+      "options": ["<", ">", "="],
+      "correctAnswer": ">"
+    },
+    {
+      "id": 413,
+      "type": "multiple-choice",
+      "prompt": "1 litre ? 1000 ml",
+      "options": ["<", ">", "="],
+      "correctAnswer": "="
+    },
+    {
+      "id": 414,
+      "type": "multiple-choice",
+      "prompt": "5 dm ? 60 cm",
+      "options": ["<", ">", "="],
+      "correctAnswer": "<"
+    },
+    {
+      "id": 415,
+      "type": "multiple-choice",
+      "prompt": "150 cm ? 1 m 50 cm",
+      "options": ["<", ">", "="],
+      "correctAnswer": "="
+    }
+  ]
+}

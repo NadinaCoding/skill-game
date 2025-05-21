@@ -1,0 +1,27 @@
+{
+  "name": "Vārdi matemātikā2",
+  "level": 2,
+  "questions": [
+    {
+      "id": 601,
+      "type": "multiple-choice",
+      "prompt": "4 × 3 = 12. Kas ir 4?",
+      "options": ["reizinātājs", "reizināmais", "reizinājums"],
+      "correctAnswer": "reizinātājs"
+    },
+    {
+      "id": 602,
+      "type": "multiple-choice",
+      "prompt": "4 × 3 = 12. Kas ir 3?",
+      "options": ["reizinātājs", "reizināmais", "reizinājums"],
+      "correctAnswer": "reizināmais"
+    },
+    {
+      "id": 603,
+      "type": "multiple-choice",
+      "prompt": "4 × 3 = 12. Kas ir 12?",
+      "options": ["reizinātājs", "reizināmais", "reizinājums"],
+      "correctAnswer": "reizinājums"
+    }
+  ]
+}

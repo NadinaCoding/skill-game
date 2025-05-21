@@ -1,0 +1,36 @@
+{
+  "name": "Nezināmais skaitlis - 1. līmenis",
+  "level": 1,
+  "questions": [
+    {
+      "id": 301,
+      "type": "text-input",
+      "prompt": "40 + a = 53. Kāds ir skaitlis a?",
+      "correctAnswer": 13
+    },
+    {
+      "id": 302,
+      "type": "text-input",
+      "prompt": "a - 7 = 9. Kāds ir skaitlis a?",
+      "correctAnswer": 16
+    },
+    {
+      "id": 303,
+      "type": "text-input",
+      "prompt": "15 = a + 8. Kāds ir skaitlis a?",
+      "correctAnswer": 7
+    },
+    {
+      "id": 304,
+      "type": "text-input",
+      "prompt": "a + 20 = 35. Kāds ir skaitlis a?",
+      "correctAnswer": 15
+    },
+    {
+      "id": 305,
+      "type": "text-input",
+      "prompt": "18 - a = 6. Kāds ir skaitlis a?",
+      "correctAnswer": 12
+    }
+  ]
+}

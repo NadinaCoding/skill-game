@@ -1,0 +1,36 @@
+{
+  "name": "Nezināmais skaitlis - 3. līmenis",
+  "level": 3,
+  "questions": [
+    {
+      "id": 311,
+      "type": "text-input",
+      "prompt": "Anna nopirka 3 grāmatas. Katra maksāja a eiro. Kopā viņa samaksāja 12 eiro. Kāds ir skaitlis a?",
+      "correctAnswer": 4
+    },
+    {
+      "id": 312,
+      "type": "text-input",
+      "prompt": "Tomam bija a konfektes. Viņš apēda 5 un palika 9. Cik konfekšu bija sākumā?",
+      "correctAnswer": 14
+    },
+    {
+      "id": 313,
+      "type": "text-input",
+      "prompt": "5 × a = 25. Kāds ir skaitlis a?",
+      "correctAnswer": 5
+    },
+    {
+      "id": 314,
+      "type": "text-input",
+      "prompt": "Skolā bija 20 skolēni. Vēl a skolēni atnāca, un tagad ir 28 skolēni. Kāds ir skaitlis a?",
+      "correctAnswer": 8
+    },
+    {
+      "id": 315,
+      "type": "text-input",
+      "prompt": "Tētis nopirka 2 maisiņus ar āboliem. Katrā bija a āboli. Kopā bija 10 āboli. Kāds ir skaitlis a?",
+      "correctAnswer": 5
+    }
+  ]
+}

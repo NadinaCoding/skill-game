@@ -1,3 +1,4 @@
+
 {
   "subjects": [
     {
@@ -6,7 +7,17 @@
       "topics": [
         "multiplication_by_2.json",
         "multiplication_by_3.json",
-        "addition_to_10.json"
+        "addition_to_10.json",
+        "textQuestions-level_1.json",
+        "textQuestions-level_2.json",
+        "textQuestions-level_3.json",
+        "unknown_numbers-level-1.json",
+        "unknown_numbers-level-2.json",
+        "unknown_numbers-level-3.json",
+        "multiplication-level-1.json",
+        "multiplication-level-2.json",
+        "multiplication-level-3.json",
+        "math-words.json"
       ]
     },
     {

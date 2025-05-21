@@ -1,0 +1,90 @@
+{
+  "name": "Teksta uzdevumi - 1. līmenis",
+  "level": 1,
+  "questions": [
+    {
+      "id": 201,
+      "type": "text-input",
+      "prompt": "Viena roze maksā 3 eiro. Cik maksās deviņas tādas rozes?",
+      "correctAnswer": 27
+    },
+    {
+      "id": 202,
+      "type": "text-input",
+      "prompt": "Vienā kastītē ir 6 zīmuļi. Saša nopirka trīs tādas kastītes. Cik zīmuļu pavisam nopirka zēns?",
+      "correctAnswer": 18
+    },
+    {
+      "id": 203,
+      "type": "text-input",
+      "prompt": "Kamila nopirka 3 burtnīcas. Pārdevējai viņa iedeva 50 centu monētu. Cik naudas izdeva Kamilai, ja burtnīca maksā 10 centus?",
+      "correctAnswer": 20
+    },
+    {
+      "id": 204,
+      "type": "text-input",
+      "prompt": "Viens koncis maksā 2 centus. Cik maksā 10 konči?",
+      "correctAnswer": 20
+    },
+    {
+      "id": 205,
+      "type": "text-input",
+      "prompt": "Laukā spēlējās 8 bērni. Pievienojās vēl 6. Cik bērni tagad spēlējas?",
+      "correctAnswer": 14
+    },
+    {
+      "id": 206,
+      "type": "text-input",
+      "prompt": "Jānim bija 10 zīmuļi, bet viņš pazaudēja 3. Cik zīmuļi viņam palika?",
+      "correctAnswer": 7
+    },
+    {
+      "id": 207,
+      "type": "text-input",
+      "prompt": "Uz galda ir 5 āboli un 4 bumbieri. Cik augļu ir kopā?",
+      "correctAnswer": 9
+    },
+    {
+      "id": 208,
+      "type": "text-input",
+      "prompt": "Kastē ir 6 sarkani un 6 zili kluči. Cik kluču kopā?",
+      "correctAnswer": 12
+    },
+    {
+      "id": 209,
+      "type": "text-input",
+      "prompt": "Mamma izcepa 3 pīrāgus, katrā bija 5 āboli. Cik ābolu tika izmantoti?",
+      "correctAnswer": 15
+    },
+    {
+      "id": 210,
+      "type": "text-input",
+      "prompt": "Klasē ir 12 zēni un 13 meitenes. Cik skolēnu pavisam?",
+      "correctAnswer": 25
+    },
+    {
+      "id": 211,
+      "type": "text-input",
+      "prompt": "Rita iedeva draudzenei 4 konfektes. Viņai palika 6. Cik konfekšu bija sākumā?",
+      "correctAnswer": 10
+    },
+    {
+      "id": 212,
+      "type": "text-input",
+      "prompt": "Laima nopirka 5 grāmatas par 2 eiro katru. Cik viņa samaksāja?",
+      "correctAnswer": 10
+    },
+    {
+      "id": 213,
+      "type": "text-input",
+      "prompt": "Uz krēsla bija 9 spilveni, bet 3 nokrita. Cik spilvenu palika?",
+      "correctAnswer": 6
+    },
+    {
+      "id": 214,
+      "type": "text-input",
+      "prompt": "Viens tramvaja biļete maksā 1 eiro. Cik jāmaksā par 7 biļetēm?",
+      "correctAnswer": 7
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Teksta uzdevumi - 2. līmenis",
+  "level": 2,
+  "questions": [
+    {
+      "id": 215,
+      "type": "text-input",
+      "prompt": "Ķirbis ir 20 kg smags, bet kabacis ir 5 reizes vieglāks. Cik kilogramu smags ir kabacis?",
+      "correctAnswer": 4
+    },
+    {
+      "id": 216,
+      "type": "text-input",
+      "prompt": "Egle ir 3 metrus gara, bet bērzs ir 5 reizes garāks. Cik metrus ir garš bērzs?",
+      "correctAnswer": 15
+    },
+    {
+      "id": 217,
+      "type": "text-input",
+      "prompt": "Kļava ir 7 metrus gara, bet liepa ir par 3 metriem garāka. Cik metru gara ir liepa?",
+      "correctAnswer": 10
+    },
+    {
+      "id": 218,
+      "type": "text-input",
+      "prompt": "Pārdevēja sasvēra apelsīnus 5 maisiņos, katrā pa 3kg, un vēl vienā maisiņā iesvēra 5kg. Cik kg apelsīnu pavisam?",
+      "correctAnswer": 20
+    },
+    {
+      "id": 219,
+      "type": "text-input",
+      "prompt": "Alisei bija 8 pogas: 6 dzeltenas un 2 sarkanas. Viņa atdeva 5 pogas. Cik palika?",
+      "correctAnswer": 3
+    },
+    {
+      "id": 220,
+      "type": "text-input",
+      "prompt": "Skolas vienā pusē ir 40 logi, bet otrā pusē par 20 vairāk. Cik logu otrā pusē?",
+      "correctAnswer": 60
+    },
+    {
+      "id": 221,
+      "type": "text-input",
+      "prompt": "Uz galda ir 4 šķīvji, katrā pa 4 cepumiem. Cik cepumu kopā?",
+      "correctAnswer": 16
+    },
+    {
+      "id": 222,
+      "type": "text-input",
+      "prompt": "Autobusā ir 35 pasažieri. 12 izkāpa, 7 iekāpa. Cik tagad ir autobusā?",
+      "correctAnswer": 30
+    },
+    {
+      "id": 223,
+      "type": "text-input",
+      "prompt": "Kastē ir 5 sarkanās, 7 zilās un 4 dzeltenās bumbiņas. Cik pavisam?",
+      "correctAnswer": 16
+    },
+    {
+      "id": 224,
+      "type": "text-input",
+      "prompt": "Veikalā pārdeva 18 banānus, pēc tam atveda vēl 9. Cik tagad banānu?",
+      "correctAnswer": 27
+    },
+    {
+      "id": 225,
+      "type": "text-input",
+      "prompt": "Dārzā ir 5 dobes ar 5 burkāniem katrā. Cik burkānu?",
+      "correctAnswer": 25
+    },
+    {
+      "id": 226,
+      "type": "text-input",
+      "prompt": "Juris redzēja 5 autobusus, katrā bija 5 cilvēki. Cik cilvēki pavisam?",
+      "correctAnswer": 25
+    },
+    {
+      "id": 227,
+      "type": "text-input",
+      "prompt": "Rīgas zooloģiskajā dārzā bija 24 dzīvnieki. Atveda vēl 6. Cik tagad dzīvnieku?",
+      "correctAnswer": 30
+    },
+    {
+      "id": 228,
+      "type": "text-input",
+      "prompt": "Grāmatplauktā ir 5 plaukti, katrā pa 5 grāmatām. Cik pavisam?",
+      "correctAnswer": 25
+    }
+  ]
+}

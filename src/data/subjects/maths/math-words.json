@@ -1,0 +1,30 @@
+{
+  "name": "Vārdi matemātikā",
+  "level": 1,
+  "questions": [
+    {
+      "id": 501,
+      "type": "select-from-text",
+      "prompt": "Nospied uz saskaitāmā",
+      "sentence": ["3", "+", "9", "=", "12"],
+      "selectableParts": [0, 2, 4],
+      "correctAnswer": 0
+    },
+    {
+      "id": 502,
+      "type": "select-from-text",
+      "prompt": "Nospied uz saskaitītāja",
+      "sentence": ["4", "+", "8", "=", "12"],
+      "selectableParts": [0, 2, 4],
+      "correctAnswer": 2
+    },
+    {
+      "id": 503,
+      "type": "select-from-text",
+      "prompt": "Nospied uz summas",
+      "sentence": ["6", "+", "6", "=", "12"],
+      "selectableParts": [0, 2, 4],
+      "correctAnswer": 4
+    }
+  ]
+}

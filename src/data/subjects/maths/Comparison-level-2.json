@@ -1,0 +1,41 @@
+{
+  "name": "Salīdzināšana - 2. līmenis",
+  "level": 2,
+  "questions": [
+    {
+      "id": 406,
+      "type": "multiple-choice",
+      "prompt": "2 × 3 ? 5 × 4",
+      "options": ["<", ">", "="],
+      "correctAnswer": "<"
+    },
+    {
+      "id": 407,
+      "type": "multiple-choice",
+      "prompt": "4 × 4 ? 5 × 3",
+      "options": ["<", ">", "="],
+      "correctAnswer": "="
+    },
+    {
+      "id": 408,
+      "type": "multiple-choice",
+      "prompt": "5 × 5 ? 2 × 10",
+      "options": ["<", ">", "="],
+      "correctAnswer": "="
+    },
+    {
+      "id": 409,
+      "type": "multiple-choice",
+      "prompt": "3 × 4 ? 4 × 3",
+      "options": ["<", ">", "="],
+      "correctAnswer": "="
+    },
+    {
+      "id": 410,
+      "type": "multiple-choice",
+      "prompt": "2 × 5 ? 5 × 1",
+      "options": ["<", ">", "="],
+      "correctAnswer": ">"
+    }
+  ]
+}

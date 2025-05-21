@@ -1,0 +1,36 @@
+{
+  "name": "Nezināmais skaitlis - 2. līmenis",
+  "level": 2,
+  "questions": [
+    {
+      "id": 306,
+      "type": "text-input",
+      "prompt": "3 × a = 12. Kāds ir skaitlis a?",
+      "correctAnswer": 4
+    },
+    {
+      "id": 307,
+      "type": "text-input",
+      "prompt": "a ÷ 5 = 3. Kāds ir skaitlis a?",
+      "correctAnswer": 15
+    },
+    {
+      "id": 308,
+      "type": "text-input",
+      "prompt": "2 × a = 10. Kāds ir skaitlis a?",
+      "correctAnswer": 5
+    },
+    {
+      "id": 309,
+      "type": "text-input",
+      "prompt": "a ÷ 2 = 6. Kāds ir skaitlis a?",
+      "correctAnswer": 12
+    },
+    {
+      "id": 310,
+      "type": "text-input",
+      "prompt": "4 × a = 20. Kāds ir skaitlis a?",
+      "correctAnswer": 5
+    }
+  ]
+}
